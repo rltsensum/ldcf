@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://avatars2.githubusercontent.com/u/31752856"
+  <img src="https://avatars2.githubusercontent.com/u/39722014"
        alt="" width="200" />
 </p>
 
@@ -17,6 +17,6 @@ _Este documento também está disponível nas seguintes linguagens:
 
 ## Links
 
-* [Sensum](https://rapidlight.io/sensum/)  
+* [Sensum](https://github.com/radialle-sensum/sensum)  
   Projeto direcionado à exploração prática dos temas relacionados ao
   desenvolvimento de _wearables_.
